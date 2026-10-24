@@ -1,9 +1,8 @@
 <div align="center">
   <h1>Hi, I'm Jose Miguel 👋</h1>
   <p><strong>Software Engineer & Backend Developer</strong></p>
-  <p>Building high-performance APIs, distributed backend systems, and clean architectural patterns.</p>
+  <p>Building high-performance APIs, distributed background queues, and clean architectural patterns.</p>
 
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com)
   [![GitHub](https://img.shields.io/badge/GitHub-Jmrm16-181717?style=for-the-badge&logo=github)](https://github.com/Jmrm16)
   [![Email](https://img.shields.io/badge/Email-Contact_Me-red?style=for-the-badge&logo=gmail)](mailto:joserinconjmrm@gmail.com)
 </div>
@@ -12,7 +11,7 @@
 
 ### 👨‍💻 About Me
 
-- 🔭 **Specialization:** Backend Architecture, RESTful APIs, and Database Optimization.
+- 🔭 **Specialization:** Backend Architecture, RESTful APIs, and Asynchronous Systems.
 - ⚙️ **Core Stack:** Python (FastAPI, Flask, SQLAlchemy, Pytest) & TypeScript (Node.js, Express).
 - 🗄️ **Databases & Cache:** PostgreSQL, SQL, Redis.
 - 🚀 **DevOps & Cloud:** Docker, Docker Compose, Linux, Git, GitHub Actions (CI/CD).
@@ -39,10 +38,12 @@
 
 ### 🌟 Featured Projects
 
-| Project | Description | Stack |
-| :--- | :--- | :--- |
-| 🛒 **[Nova Commerce API](https://github.com/Jmrm16/nova-commerce-api)** | Production-grade e-commerce order management microservice with atomic inventory reservation, finite state machine order lifecycles, and JWT RBAC. | Python 3.11, FastAPI, PostgreSQL, SQLAlchemy 2.0, Docker, Pytest |
-| 🏥 **[Bienestar](https://github.com/Jmrm16/Bienestar)** | Full-stack platform built with TypeScript, modern component architecture, and automated workflows. | TypeScript, React, Vite |
+| Project | Description | Stack | Year |
+| :--- | :--- | :--- | :--- |
+| 🛒 **[fastapi-orders-api](https://github.com/Jmrm16/fastapi-orders-api)** | Production-grade e-commerce order management microservice with atomic inventory reservation, state machine lifecycle, and JWT RBAC. | Python 3.11, FastAPI, PostgreSQL, SQLAlchemy 2.0, Docker, Pytest | 2025–2026 |
+| ⚡ **[task-queue-redis](https://github.com/Jmrm16/task-queue-redis)** | Asynchronous distributed background task queue and worker execution engine with Redis, exponential backoff retries, and job status polling. | Python 3.11, FastAPI, Redis 7, Pytest, Docker Compose | 2024 |
+| 🧪 **[python-test-runner](https://github.com/Jmrm16/python-test-runner)** | Isolated code execution and test evaluation microservice for automated grading, pytest assertion verification, and process timeout protection. | Python 3.11, FastAPI, Subprocess Sandboxing, Pytest | 2023 |
+| 🏥 **[Bienestar](https://github.com/Jmrm16/Bienestar)** | Full-stack platform built with TypeScript, modern component architecture, and automated workflows. | TypeScript, React, Vite | 2024 |
 
 ---
 
