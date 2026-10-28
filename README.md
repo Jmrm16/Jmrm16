@@ -71,6 +71,7 @@ Proyectos orientados a explorar y demostrar distintas áreas de **Backend Engine
 | Proyecto | Qué demuestra | Stack |
 | :--- | :--- | :--- |
 | ⚡ **[fastapi-orders-api](https://github.com/Jmrm16/fastapi-orders-api)** | Motor distribuido de pedidos con reserva atómica de inventario mediante `SELECT ... FOR UPDATE` en PostgreSQL, máquina de estados finitos y eventos con Redis pub/sub. | Python, FastAPI, PostgreSQL, Redis, Docker, Pytest |
+| 🪄 **[unreal-vfx-magic-circle](https://github.com/Jmrm16/unreal-vfx-magic-circle)** | Sistema de VFX en tiempo real para Unreal Engine 5: aura rúnica mágica y partículas Niagara GPU con geometría 3D modelada en Blender y apuntado láser. | Unreal Engine 5, Niagara VFX, Blender, Blueprints |
 | 🔄 **[task-queue-redis](https://github.com/Jmrm16/task-queue-redis)** | Broker asíncrono de tareas en segundo plano con Redis 7, reintentos con backoff exponencial, Dead Letter Queue (DLQ) y ejecución no bloqueante. | Python, Redis 7, Asyncio, Docker |
 | 🧪 **[python-test-runner](https://github.com/Jmrm16/python-test-runner)** | Motor de ejecución y evaluación de código en sandbox aislado (subprocess) con aserciones deterministas, límites estrictos de CPU/memoria y suite de pruebas. | Python, Pytest, Subprocess, CLI Sandbox |
 | 🛍️ **[nova-commerce-api](https://github.com/Jmrm16/nova-commerce-api)** | API RESTful escalable para comercio electrónico con esquemas relacionales complejos en PostgreSQL, caché en capas con Redis y tests automatizados. | Python, FastAPI, PostgreSQL, Redis, Docker |
