@@ -44,7 +44,7 @@
 
 ---
 
-## 👋 Sobre mí
+## Sobre mí
 
 Soy **José Miguel Rincón Martínez**, Ingeniero de Sistemas graduado con honores (**Mención de Honor por mérito académico**) de la **Universidad de La Guajira**, especializado en **Backend Engineering con Python (FastAPI, Django), PostgreSQL, Redis y arquitecturas de microservicios**.
 
@@ -56,7 +56,7 @@ Mi perfil se complementa con experiencia práctica en desarrollo **Frontend & Fu
 
 ---
 
-## 📈 Impacto y Métricas
+## Impacto y Métricas
 
 | Especialidad | Rendimiento & Escala | Calidad de Código | Liderazgo Técnico |
 | :--- | :--- | :--- | :--- |
@@ -65,7 +65,7 @@ Mi perfil se complementa con experiencia práctica en desarrollo **Frontend & Fu
 
 ---
 
-## 🧠 En qué me enfoco
+## En qué me enfoco
 
 - **API Engineering:** Diseño de APIs RESTful limpias, OpenAPI/Swagger, validación estricta con Pydantic, autenticación JWT/OAuth2 y autorización RBAC.
 - **Data & Consistency:** PostgreSQL, MySQL, consistencia ACID, locking a nivel de fila (`SELECT ... FOR UPDATE`), prevención de race conditions, indexación y optimización de consultas.
@@ -76,25 +76,25 @@ Mi perfil se complementa con experiencia práctica en desarrollo **Frontend & Fu
 
 ---
 
-## 🚀 Selected Engineering Projects
+## Selected Engineering Projects
 
 Proyectos orientados a explorar y demostrar distintas áreas de **Backend Engineering**, procesamiento distribuido, microservicios y pruebas deterministas.
 
 | Proyecto | Qué demuestra | Stack |
 | :--- | :--- | :--- |
-| ⚡ **[fastapi-orders-api](https://github.com/Jmrm16/fastapi-orders-api)** | Motor distribuido de pedidos con reserva atómica de inventario mediante `SELECT ... FOR UPDATE` en PostgreSQL, máquina de estados finitos y eventos con Redis pub/sub. | Python, FastAPI, PostgreSQL, Redis, Docker, Pytest |
-| 🔄 **[task-queue-redis](https://github.com/Jmrm16/task-queue-redis)** | Broker asíncrono de tareas en segundo plano con Redis 7, reintentos con backoff exponencial, Dead Letter Queue (DLQ) y ejecución no bloqueante. | Python, FastAPI, Redis 7, Asyncio, Docker |
-| 🧪 **[python-test-runner](https://github.com/Jmrm16/python-test-runner)** | Motor de ejecución y evaluación de código en sandbox aislado (subprocess) con aserciones deterministas, límites estrictos de CPU/memoria y suite de pruebas. | Python, FastAPI, Pytest, Subprocess, Sandbox |
-| 🛍️ **[nova-commerce-api](https://github.com/Jmrm16/nova-commerce-api)** | API RESTful escalable para comercio electrónico con esquemas relacionales complejos en PostgreSQL, caché en capas con Redis y tests automatizados. | Python, FastAPI, PostgreSQL, Redis, Docker |
-| 🛡️ **[ipw](https://github.com/Jmrm16/ipw)** · *[ipwseguros.com.co](https://ipwseguros.com.co)* | Plataforma comercial de seguros en producción con catálogo interactivo de pólizas, cotización digital e integración de asistente virtual con IA para atención en tiempo real. | Laravel, PHP, Blade, Tailwind CSS, Vite, AI Assistant |
-| 🎓 **[Bienestar](https://github.com/Jmrm16/Bienestar)** | Plataforma institucional Full-Stack para Bienestar Universitario unificando seguimiento estudiantil, control de asistencia y reportes analíticos con un 40% menos de latencia. | React, TypeScript, Inertia.js, Tailwind CSS, Radix UI, Laravel |
-| 🌐 **[Guajira_exporta](https://github.com/Jmrm16/Guajira_exporta)** | Plataforma frontend y directorio comercial B2B/B2C para comercio fronterizo con componentes accesibles y arquitectura modular en React + TypeScript. | React 18, TypeScript, Tailwind CSS, Radix UI, Vite |
+| **[fastapi-orders-api](https://github.com/Jmrm16/fastapi-orders-api)** | Motor distribuido de pedidos con reserva atómica de inventario mediante `SELECT ... FOR UPDATE` en PostgreSQL, máquina de estados finitos y eventos con Redis pub/sub. | Python, FastAPI, PostgreSQL, Redis, Docker, Pytest |
+| **[task-queue-redis](https://github.com/Jmrm16/task-queue-redis)** | Broker asíncrono de tareas en segundo plano con Redis 7, reintentos con backoff exponencial, Dead Letter Queue (DLQ) y ejecución no bloqueante. | Python, FastAPI, Redis 7, Asyncio, Docker |
+| **[python-test-runner](https://github.com/Jmrm16/python-test-runner)** | Motor de ejecución y evaluación de código en sandbox aislado (subprocess) con aserciones deterministas, límites estrictos de CPU/memoria y suite de pruebas. | Python, FastAPI, Pytest, Subprocess, Sandbox |
+| **[nova-commerce-api](https://github.com/Jmrm16/nova-commerce-api)** | API RESTful escalable para comercio electrónico con esquemas relacionales complejos en PostgreSQL, caché en capas con Redis y tests automatizados. | Python, FastAPI, PostgreSQL, Redis, Docker |
+| **[ipw](https://github.com/Jmrm16/ipw)** · *[ipwseguros.com.co](https://ipwseguros.com.co)* | Plataforma comercial de seguros en producción con catálogo interactivo de pólizas, cotización digital e integración de asistente virtual con IA para atención en tiempo real. | Laravel, PHP, Blade, Tailwind CSS, Vite, AI Assistant |
+| **[Bienestar](https://github.com/Jmrm16/Bienestar)** | Plataforma institucional Full-Stack para Bienestar Universitario unificando seguimiento estudiantil, control de asistencia y reportes analíticos con un 40% menos de latencia. | React, TypeScript, Inertia.js, Tailwind CSS, Radix UI, Laravel |
+| **[Guajira_exporta](https://github.com/Jmrm16/Guajira_exporta)** | Plataforma frontend y directorio comercial B2B/B2C para comercio fronterizo con componentes accesibles y arquitectura modular en React + TypeScript. | React 18, TypeScript, Tailwind CSS, Radix UI, Vite |
 
 > Cada repositorio cuenta con su propia documentación técnica, decisiones de arquitectura y estructura modular. *(Adicionalmente, como hobby y aprendizaje personal reciente exploro modelado 3D y VFX en [blender-3d-portfolio](https://github.com/Jmrm16/blender-3d-portfolio) y [unreal-vfx-magic-circle](https://github.com/Jmrm16/unreal-vfx-magic-circle)).*
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <div align="center">
 
@@ -138,7 +138,7 @@ Proyectos orientados a explorar y demostrar distintas áreas de **Backend Engine
 
 ---
 
-## 🎯 Engineering Mindset
+## Engineering Mindset
 
 No me interesa utilizar tecnologías o patrones únicamente como cajas negras.
 
@@ -170,11 +170,11 @@ Busco construir sistemas que sigan siendo robustos y predecibles no solo en cond
 
 ---
 
-## 🎓 Formación & Distinciones
+## Formación & Distinciones
 
 * **Ingeniería de Sistemas (Graduado con Honores)** — *Universidad de La Guajira* (Grado: 2026)
-  * 🎖️ **Mención de Honor por Mérito Académico** (Máxima distinción institucional por promedio sobresaliente).
-  * 🥇 **1er Puesto Institucional en Pruebas de Estado ICFES Saber 11** (2019).
+  * **Mención de Honor por Mérito Académico** (Máxima distinción institucional por promedio sobresaliente).
+  * **1er Puesto Institucional en Pruebas de Estado ICFES Saber 11** (2019).
 * **Cisco Networking Academy:** Certificate of Completion — *Introduction to Packet Tracer & IoT* (2023).
 * **Estudiante Tutor CARA:** 8 periodos consecutivos como Tutor Académico de Cálculo Diferencial (2022–2025).
 
