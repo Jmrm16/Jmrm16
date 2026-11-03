@@ -52,7 +52,7 @@ He diseñado e implementado microservicios asíncronos y APIs RESTful de alto re
 
 Además de la ingeniería de software, cuento con una destacada trayectoria en liderazgo y docencia técnica: fui designado formalmente durante **8 periodos académicos consecutivos** como **Tutor Académico de Cálculo Diferencial** (Programa CARA), orientando a más de 300 estudiantes de ingeniería en optimización matemática, algoritmos y resolución lógica de problemas.
 
-Mi perfil se complementa con sólidas competencias en redes (**Cisco Packet Tracer**), contenedorización con **Docker & CI/CD**, y herramientas multimedia / 3D (**Figma, Adobe After Effects, Blender y Unreal Engine**).
+Mi perfil se complementa con experiencia práctica en desarrollo **Frontend & Full-Stack (`React.js`, `TypeScript`, `Tailwind CSS`, `Radix UI`, `Inertia.js`)**, redes (**Cisco Packet Tracer**) y contenedorización con **Docker & CI/CD**. En mi tiempo libre exploro de forma autodidacta el modelado 3D y efectos visuales en tiempo real (Blender y Unreal Engine) como hobby creativo.
 
 ---
 
@@ -83,14 +83,14 @@ Proyectos orientados a explorar y demostrar distintas áreas de **Backend Engine
 | Proyecto | Qué demuestra | Stack |
 | :--- | :--- | :--- |
 | ⚡ **[fastapi-orders-api](https://github.com/Jmrm16/fastapi-orders-api)** | Motor distribuido de pedidos con reserva atómica de inventario mediante `SELECT ... FOR UPDATE` en PostgreSQL, máquina de estados finitos y eventos con Redis pub/sub. | Python, FastAPI, PostgreSQL, Redis, Docker, Pytest |
-| 🔄 **[task-queue-redis](https://github.com/Jmrm16/task-queue-redis)** | Broker asíncrono de tareas en segundo plano con Redis 7, reintentos con backoff exponencial, Dead Letter Queue (DLQ) y ejecución no bloqueante. | Python, Redis 7, Asyncio, Docker |
-| 🧪 **[python-test-runner](https://github.com/Jmrm16/python-test-runner)** | Motor de ejecución y evaluación de código en sandbox aislado (subprocess) con aserciones deterministas, límites estrictos de CPU/memoria y suite de pruebas. | Python, Pytest, Subprocess, CLI Sandbox |
+| 🔄 **[task-queue-redis](https://github.com/Jmrm16/task-queue-redis)** | Broker asíncrono de tareas en segundo plano con Redis 7, reintentos con backoff exponencial, Dead Letter Queue (DLQ) y ejecución no bloqueante. | Python, FastAPI, Redis 7, Asyncio, Docker |
+| 🧪 **[python-test-runner](https://github.com/Jmrm16/python-test-runner)** | Motor de ejecución y evaluación de código en sandbox aislado (subprocess) con aserciones deterministas, límites estrictos de CPU/memoria y suite de pruebas. | Python, FastAPI, Pytest, Subprocess, Sandbox |
 | 🛍️ **[nova-commerce-api](https://github.com/Jmrm16/nova-commerce-api)** | API RESTful escalable para comercio electrónico con esquemas relacionales complejos en PostgreSQL, caché en capas con Redis y tests automatizados. | Python, FastAPI, PostgreSQL, Redis, Docker |
-| 🎓 **[Bienestar](https://github.com/Jmrm16/Bienestar)** | Plataforma institucional para Bienestar Universitario unificando registro de estudiantes, control de asistencia a eventos y reportes analíticos con un 40% menos de latencia. | React.js, TypeScript, Tailwind CSS, REST API |
-| 🪄 **[unreal-vfx-magic-circle](https://github.com/Jmrm16/unreal-vfx-magic-circle)** | Sistema de VFX en tiempo real para Unreal Engine 5: aura rúnica mágica y partículas Niagara GPU con geometría 3D modelada en Blender y apuntado láser. | Unreal Engine 5, Niagara VFX, Blender, Blueprints |
-| 🎨 **[blender-3d-portfolio](https://github.com/Jmrm16/blender-3d-portfolio)** | Portafolio 3D en Blender 5: Círculo arcano y reloj celestial dorado (112k vértices, emisión procedural con bloom en EEVEE), espada de fantasía lunar, casco cibernético LIA y props modulares. | Blender 5, 3D Modeling, Hard-Surface, EEVEE, VFX Assets |
+| 🛡️ **[ipw](https://github.com/Jmrm16/ipw)** · *[ipwseguros.com.co](https://ipwseguros.com.co)* | Plataforma comercial de seguros en producción con catálogo interactivo de pólizas, cotización digital e integración de asistente virtual con IA para atención en tiempo real. | Laravel, PHP, Blade, Tailwind CSS, Vite, AI Assistant |
+| 🎓 **[Bienestar](https://github.com/Jmrm16/Bienestar)** | Plataforma institucional Full-Stack para Bienestar Universitario unificando seguimiento estudiantil, control de asistencia y reportes analíticos con un 40% menos de latencia. | React, TypeScript, Inertia.js, Tailwind CSS, Radix UI, Laravel |
+| 🌐 **[Guajira_exporta](https://github.com/Jmrm16/Guajira_exporta)** | Plataforma frontend y directorio comercial B2B/B2C para comercio fronterizo con componentes accesibles y arquitectura modular en React + TypeScript. | React 18, TypeScript, Tailwind CSS, Radix UI, Vite |
 
-> Cada repositorio cuenta con su propia documentación técnica, decisiones de arquitectura, pruebas automatizadas y despliegue con Docker.
+> Cada repositorio cuenta con su propia documentación técnica, decisiones de arquitectura y estructura modular. *(Adicionalmente, como hobby y aprendizaje personal reciente exploro modelado 3D y VFX en [blender-3d-portfolio](https://github.com/Jmrm16/blender-3d-portfolio) y [unreal-vfx-magic-circle](https://github.com/Jmrm16/unreal-vfx-magic-circle)).*
 
 ---
 
@@ -122,13 +122,13 @@ Proyectos orientados a explorar y demostrar distintas áreas de **Backend Engine
 
 **Docker · Docker Compose · Linux · Git · GitHub Actions (CI/CD) · Uvicorn · Postman**
 
-### Diseño, 3D & Multimedia
+### Frontend & Ecosistema Web
 
-<img src="https://skillicons.dev/icons?i=figma,blender,unreal,ae,react,tailwind&perline=6" alt="Figma, Blender, Unreal Engine, After Effects, React and Tailwind" />
+<img src="https://skillicons.dev/icons?i=react,ts,tailwind,vite,html,css,figma&perline=7" alt="React, TypeScript, Tailwind CSS, Vite, HTML5, CSS3 and Figma" />
 
 <br />
 
-**Figma · Adobe After Effects · Blender · Unreal Engine · React.js · Tailwind CSS**
+**React.js · TypeScript · Tailwind CSS · Radix UI · Inertia.js · Vite · HTML5 / CSS3 · Figma**
 
 ### Calidad & Arquitectura
 
