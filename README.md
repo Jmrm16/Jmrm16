@@ -1,10 +1,10 @@
 <div align="center">
 
-### Backend Engineer · APIs · Distributed Systems · Cloud
+### Design Engineer & Full-Stack Developer · React 19 · TypeScript · UI Systems · Robust Backends
 
 <img
-  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&pause=1100&color=0284C7&center=true&vCenter=true&width=900&lines=Python+%7C+FastAPI+%7C+Django+%7C+PostgreSQL;Microservices+%7C+Async+Task+Queues+%7C+Redis+7;Atomic+Transactions+(ACID)+%7C+Pytest+%7C+Docker;Systems+Engineer+(Honors)+%7C+Calculus+Tutor"
-  alt="Backend engineering focus"
+  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&pause=1100&color=0284C7&center=true&vCenter=true&width=900&lines=React+19+%7C+TypeScript+%7C+Figma+%7C+Custom+SVG+Systems;Design+Engineer+%7C+UI+State+Machines+%7C+Radix+UI;Python+%7C+FastAPI+%7C+PostgreSQL+%7C+Redis+7;Systems+Engineer+(Honors)+%7C+Deterministic+Testing"
+  alt="Design Engineer and Full-Stack Focus"
 />
 
 <br />
@@ -46,51 +46,52 @@
 
 ## Sobre mí
 
-Soy **José Miguel Rincón Martínez**, Ingeniero de Sistemas graduado con honores (**Mención de Honor por mérito académico**) de la **Universidad de La Guajira**, especializado en **Backend Engineering con Python (FastAPI, Django), PostgreSQL, Redis y arquitecturas de microservicios**.
+Soy **José Miguel Rincón Martínez**, Ingeniero de Sistemas graduado con honores (**Mención de Honor por mérito académico**) de la **Universidad de La Guajira**, especializado como **Design Engineer & Full-Stack Developer**. Combino una profunda sensibilidad visual y de producto (**Figma, diseño de componentes, gráficos vectoriales SVG, Canvas/3D**) con arquitectura técnica rigurosa en **React 19, TypeScript, Python (FastAPI), PostgreSQL y Redis**.
 
-He diseñado e implementado microservicios asíncronos y APIs RESTful de alto rendimiento, especializándome en **reserva atómica de transacciones (`SELECT ... FOR UPDATE`), colas de tareas en segundo plano con reintentos exponenciales, optimización de consultas SQL y suites de pruebas deterministas**.
+Conecto la brecha entre el diseño y la ingeniería de software: transformo especificaciones visuales, flujos interactivos y tokens de diseño en interfaces responsivas, accesibles (ARIA) y verificables determinísticamente mediante pruebas automatizadas.
 
 Además de la ingeniería de software, cuento con una destacada trayectoria en liderazgo y docencia técnica: fui designado formalmente durante **8 periodos académicos consecutivos** como **Tutor Académico de Cálculo Diferencial** (Programa CARA), orientando a más de 300 estudiantes de ingeniería en optimización matemática, algoritmos y resolución lógica de problemas.
 
-Mi perfil se complementa con experiencia práctica en desarrollo **Frontend & Full-Stack (`React.js`, `TypeScript`, `Tailwind CSS`, `Radix UI`, `Inertia.js`)**, redes (**Cisco Packet Tracer**) y contenedorización con **Docker & CI/CD**. En mi tiempo libre exploro de forma autodidacta el modelado 3D y efectos visuales en tiempo real (Blender y Unreal Engine) como hobby creativo.
-
 ---
 
-## Impacto y Métricas
+## Tres Pilares Técnicos
 
-| Especialidad | Rendimiento & Escala | Calidad de Código | Liderazgo Técnico |
-| :--- | :--- | :--- | :--- |
-| **Backend en Python** | Latencia reducida de **2.5s a <450ms** | Cobertura de pruebas **>80%** en Pytest | **8 resoluciones continuas** como Tutor CARA |
-| FastAPI, Django y PostgreSQL | Colas de tareas con **Redis 7 & DLQ** | Docker, Docker Compose y GitHub Actions | Mentoría matemática a **+300 estudiantes** |
-
----
-
-## En qué me enfoco
-
-- **API Engineering:** Diseño de APIs RESTful limpias, OpenAPI/Swagger, validación estricta con Pydantic, autenticación JWT/OAuth2 y autorización RBAC.
-- **Data & Consistency:** PostgreSQL, MySQL, consistencia ACID, locking a nivel de fila (`SELECT ... FOR UPDATE`), prevención de race conditions, indexación y optimización de consultas.
-- **Asincronía & Background Jobs:** Redis 7 (Pub/Sub & Caching), colas asíncronas de tareas, políticas de reintentos con backoff exponencial y Dead Letter Queues (DLQ).
-- **Architecture & Modularity:** Clean Architecture, separación de responsabilidades, State Machines, Dependency Injection y patrones de diseño orientados a objetos.
-- **Testing & Quality:** Pytest, pruebas unitarias y de integración deterministas, fixtures, mocks, verificación en sandboxes aislados y estándares PEP 8.
-- **DevOps & Networks:** Docker, Docker Compose, flujos de CI/CD con GitHub Actions, Linux, Cisco Packet Tracer (LAN/WAN & IoT).
+```
+┌───────────────────────────────┬───────────────────────────────┬───────────────────────────────┐
+│     1. UI & DESIGN SYSTEMS    │     2. ROBUST BACKEND & DATA  │    3. CREATIVE GRAPHICS LAB   │
+├───────────────────────────────┼───────────────────────────────┼───────────────────────────────┤
+│ • React 19 & TypeScript       │ • Python (FastAPI, Django)    │ • Figma & Design Tokens       │
+│ • Tailwind CSS & Radix UI     │ • PostgreSQL (Atomic Locking) │ • Custom SVG Architecture     │
+│ • State Machines (Inertia.js) │ • Redis 7 (Async Task Queues) │ • Three.js / WebGL / Canvas   │
+│ • Accessibility (WCAG / ARIA) │ • Pytest & Deterministic QA   │ • Blender 3D & Real-Time VFX  │
+└───────────────────────────────┴───────────────────────────────┴───────────────────────────────┘
+```
 
 ---
 
 ## Selected Engineering Projects
 
-Proyectos orientados a explorar y demostrar distintas áreas de **Backend Engineering**, procesamiento distribuido, microservicios y pruebas deterministas.
+### 🎨 Frontend & Design Engineering
+| Proyecto | Qué demuestra | Stack |
+| :--- | :--- | :--- |
+| **[ipw](https://github.com/Jmrm16/ipw)** & **[admin](https://github.com/Jmrm16/admin)** · *[ipwseguros.com.co](https://ipwseguros.com.co)* | Ecosistema asegurador en producción (92.6% autoría): portal comercial con asistente virtual y Back-Office Admin con máquina de estados de pólizas (7 etapas), componentes accesibles en Radix UI, validación de formularios y CRM. | React 19, TypeScript, Inertia.js v2, Tailwind CSS, Radix UI, Laravel |
+| **[lia-5](https://github.com/Jmrm16)** | Interfaz conversacional corporativa y B2B con avatar 3D en tiempo real (Three.js/Canvas), iconos SVG personalizados, diseño modular responsivo y sincronización de mensajes en vivo. | React 19, TypeScript, Three.js, SVG, Vite, WebSockets |
+| **[Bienestar](https://github.com/Jmrm16/Bienestar)** | Plataforma institucional Full-Stack para Bienestar Universitario unificando seguimiento estudiantil, control de asistencia y reportes analíticos con un 40% menos de latencia. | React, TypeScript, Inertia.js, Tailwind CSS, Radix UI, Laravel |
+| **[Guajira_exporta](https://github.com/Jmrm16/Guajira_exporta)** | Plataforma frontend y directorio comercial B2B/B2C para comercio fronterizo con componentes accesibles, búsqueda instantánea y arquitectura modular. | React 18, TypeScript, Tailwind CSS, Radix UI, Vite |
 
+### ⚙️ Backend, Concurrencia & Sistemas Distribuidos
 | Proyecto | Qué demuestra | Stack |
 | :--- | :--- | :--- |
 | **[fastapi-orders-api](https://github.com/Jmrm16/fastapi-orders-api)** | Motor distribuido de pedidos con reserva atómica de inventario mediante `SELECT ... FOR UPDATE` en PostgreSQL, máquina de estados finitos y eventos con Redis pub/sub. | Python, FastAPI, PostgreSQL, Redis, Docker, Pytest |
 | **[task-queue-redis](https://github.com/Jmrm16/task-queue-redis)** | Broker asíncrono de tareas en segundo plano con Redis 7, reintentos con backoff exponencial, Dead Letter Queue (DLQ) y ejecución no bloqueante. | Python, FastAPI, Redis 7, Asyncio, Docker |
 | **[python-test-runner](https://github.com/Jmrm16/python-test-runner)** | Motor de ejecución y evaluación de código en sandbox aislado (subprocess) con aserciones deterministas, límites estrictos de CPU/memoria y suite de pruebas. | Python, FastAPI, Pytest, Subprocess, Sandbox |
 | **[nova-commerce-api](https://github.com/Jmrm16/nova-commerce-api)** | API RESTful escalable para comercio electrónico con esquemas relacionales complejos en PostgreSQL, caché en capas con Redis y tests automatizados. | Python, FastAPI, PostgreSQL, Redis, Docker |
-| **[ipw](https://github.com/Jmrm16/ipw)** & **[admin](https://github.com/Jmrm16/admin)** · *[ipwseguros.com.co](https://ipwseguros.com.co)* | Ecosistema asegurador en producción (92.6% autoría): portal comercial con asistente virtual IA y Back-Office Admin con máquina de estados de pólizas (7 etapas), asignación de carga a trabajadores, validación SARLAFT/RUT, estampado PDF (FPDI/TCPDF) y CRM de WhatsApp (UltraMsg). | React 19, TypeScript, Inertia.js v2, Tailwind CSS, Radix UI, Laravel, FPDI |
-| **[Bienestar](https://github.com/Jmrm16/Bienestar)** | Plataforma institucional Full-Stack para Bienestar Universitario unificando seguimiento estudiantil, control de asistencia y reportes analíticos con un 40% menos de latencia. | React, TypeScript, Inertia.js, Tailwind CSS, Radix UI, Laravel |
-| **[Guajira_exporta](https://github.com/Jmrm16/Guajira_exporta)** | Plataforma frontend y directorio comercial B2B/B2C para comercio fronterizo con componentes accesibles y arquitectura modular en React + TypeScript. | React 18, TypeScript, Tailwind CSS, Radix UI, Vite |
 
-> Cada repositorio cuenta con su propia documentación técnica, decisiones de arquitectura y estructura modular. *(Adicionalmente, como hobby y aprendizaje personal reciente exploro modelado 3D y VFX en [blender-3d-portfolio](https://github.com/Jmrm16/blender-3d-portfolio) y [unreal-vfx-magic-circle](https://github.com/Jmrm16/unreal-vfx-magic-circle)).*
+### 🖌️ Creative Lab (3D & Graphics Showcase)
+| Proyecto | Qué demuestra | Stack |
+| :--- | :--- | :--- |
+| **[blender-3d-portfolio](https://github.com/Jmrm16/blender-3d-portfolio)** | Modelado 3D, texturizado PBR, shaders procedurales y optimización de mallas poligonales para web y tiempo real. | Blender 4.x, Cycles, GLTF/GLB |
+| **[unreal-vfx-magic-circle](https://github.com/Jmrm16/unreal-vfx-magic-circle)** | Sistemas de partículas en tiempo real (Niagara), shaders emisivos y dinámicas de interacción visual. | Unreal Engine 5, Niagara VFX |
 
 ---
 
@@ -98,41 +99,29 @@ Proyectos orientados a explorar y demostrar distintas áreas de **Backend Engine
 
 <div align="center">
 
-### Backend & Lenguajes
-
-<img src="https://skillicons.dev/icons?i=python,fastapi,django,php,laravel,ts,js&perline=7" alt="Python, FastAPI, Django, PHP, Laravel, TypeScript and JavaScript" />
-
-<br />
-
-**Python · FastAPI · Django · Django REST Framework · PHP · Laravel · TypeScript · JavaScript**
-
-### Bases de Datos & Asincronía
-
-<img src="https://skillicons.dev/icons?i=postgres,mysql,redis&perline=3" alt="PostgreSQL, MySQL and Redis" />
-
-<br />
-
-**PostgreSQL · MySQL · Redis 7 (Pub/Sub & Caching) · Background Task Queues · ACID Locking**
-
-### DevOps & Entornos
-
-<img src="https://skillicons.dev/icons?i=docker,linux,git,github,githubactions,postman&perline=6" alt="Docker, Linux, Git, GitHub, GitHub Actions and Postman" />
-
-<br />
-
-**Docker · Docker Compose · Linux · Git · GitHub Actions (CI/CD) · Uvicorn · Postman**
-
-### Frontend & Ecosistema Web
+### Frontend, Design & UI Systems
 
 <img src="https://skillicons.dev/icons?i=react,ts,tailwind,vite,html,css,figma&perline=7" alt="React, TypeScript, Tailwind CSS, Vite, HTML5, CSS3 and Figma" />
 
 <br />
 
-**React.js · TypeScript · Tailwind CSS · Radix UI · Inertia.js · Vite · HTML5 / CSS3 · Figma**
+**React 19 · TypeScript · Tailwind CSS · Radix UI · Inertia.js · Vite · HTML5 / CSS3 · Figma · SVG Architecture · Three.js**
 
-### Calidad & Arquitectura
+### Backend & Distributed Systems
 
-**pytest · Pruebas Unitarias & de Integración · Clean Architecture · Design Patterns · PEP 8 · Cisco Packet Tracer**
+<img src="https://skillicons.dev/icons?i=python,fastapi,django,php,laravel,postgres,redis&perline=7" alt="Python, FastAPI, Django, PHP, Laravel, PostgreSQL and Redis" />
+
+<br />
+
+**Python · FastAPI · Django · PHP / Laravel · PostgreSQL · Redis 7 (Pub/Sub & Caching) · Atomic Locking (SELECT ... FOR UPDATE)**
+
+### DevOps & Testing
+
+<img src="https://skillicons.dev/icons?i=docker,linux,git,github,githubactions,postman&perline=6" alt="Docker, Linux, Git, GitHub, GitHub Actions and Postman" />
+
+<br />
+
+**Pytest · React Testing Library · Docker · Docker Compose · GitHub Actions (CI/CD) · Linux · Cisco Packet Tracer**
 
 </div>
 
@@ -140,33 +129,21 @@ Proyectos orientados a explorar y demostrar distintas áreas de **Backend Engine
 
 ## Engineering Mindset
 
-No me interesa utilizar tecnologías o patrones únicamente como cajas negras.
-
-Cuando incorporo una decisión técnica, recorro rigurosamente esta secuencia:
+No construyo cajas negras. Cada interfaz y servicio que desarrollo sigue este ciclo de diseño e ingeniería:
 
 <div align="center">
 
-**¿Qué problema resuelve?**
-
+**1. Especificación Visual & Tokens (Figma / SVG)**
 ↓
-
-**¿Qué trade-offs introduce?**
-
+**2. Tipado Estricto & Arquitectura de Componentes (React 19 / TypeScript)**
 ↓
-
-**¿Cómo puede fallar?**
-
+**3. Gestión de Estados & Casos Borde (Loading, Empty, Error, Overflow)**
 ↓
-
-**¿Cómo lo observamos y medimos?**
-
+**4. Integración Segura con APIs & Datos (ACID / Rest Contracts)**
 ↓
-
-**¿Cómo lo probamos de forma determinista?**
+**5. Verificación Determinista Automatizada (Testing)**
 
 </div>
-
-Busco construir sistemas que sigan siendo robustos y predecibles no solo en condiciones normales, sino también bajo **alta concurrencia, reintentos automáticos, fallos de red o picos de tráfico**.
 
 ---
 
@@ -182,16 +159,10 @@ Busco construir sistemas que sigan siendo robustos y predecibles no solo en cond
 
 <div align="center">
 
-### Building resilient and deterministic backend systems
+### Crafting deterministic interfaces & resilient backend architectures
 
 <sub>
-Python · FastAPI · PostgreSQL · Redis · Distributed Systems · Clean Code
-</sub>
-
-<br />
-
-<sub>
-One reliable engineering decision at a time.
+React 19 · TypeScript · Figma · Custom SVG · Python · FastAPI · PostgreSQL · Redis
 </sub>
 
 </div>
